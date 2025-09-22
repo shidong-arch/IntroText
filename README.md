@@ -95,3 +95,33 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 - [The longitude problem: history's deadliest riddle](https://www.youtube.com/watch?v=3mHC-Pf8-dU)
 - [About Time Documentary 1962](https://www.youtube.com/watch?v=e__emnxC2Gc)
 
+## Keyboard shortcuts
+Shortcuts I usually use
+-CRTL+C(Copy)
+-CRTL+V(Paste)
+-CRTL+Z(undo)
+-CRTL+Y(redo)
+-CRTL+F(find)
+Shortcuts I would like to use
+-Win+I(open settings)
+-FN+PRT SC(print screen)
+-CRTL+A(select all)
+
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+## More resources
+Check out the [Useful resources](links.md) page for useful links
